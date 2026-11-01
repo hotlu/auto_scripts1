@@ -3,6 +3,6 @@
   "alg": "fernet-aes128-cbc-hmac",
   "kdf": "raw-key",
   "salt": "",
-  "updated": "2026-10-25 11:20:24",
-  "data": "gAAAAABq3eX4poSYdkvdsy6Yvru-cui_xXThHLblDFMyACzQjxBf-bc9N66P3dla2WVwINoseWc8mN-ks0AR80ulUc3XXutcBzTRJAa323f54G-ztR0mDqMcZalNJygvtCiZU_eAoy1dsDPnCDAIj76Av8309zwq5ZaUzphjIbxZrpa3y0C3VF8H51BBz4cKFVV40kkD4UgQ2Mw7qGe9RU_FDPQM0KUbj-FitjvpVXL9FHaEdShmLkacNHGG_-Epa_2D6jCM8tdCvIoCvQxkVgzi5uNnI0zW1Dt_9oMHw2RSFyGiPDtY89Mhlklj1S9GViZJx_s_JzJu"
+  "updated": "2026-11-01 02:52:24",
+  "data": "gAAAAABq5qloQvA5LRzVTIkBqd3Ew1Bya9H-_Xe93u6IqBIUU8L9QjgxQh83AXrbmXQF_UUMAoCdc1iZyVy6ue4PLG75xbjfRf4J9gsEQgHLE-BacyB3twcRDPh56O23qQSmQ6AiHJwnNdz3K0CddstQY-MoZrp4pD1jvWT4_YV0QZ6kFR_S0uq0S4XEvS0FBDxb2IZJyaq9Gy6ztE_LGspQpVmS-2PqZwAzXGDeLlY3VxY-NNbiysHOTJwcVmu7ggaV_EopVZTKer1VT4kZuuMUHB7MzJSYiSmO7kQOhspu-sOrydl87ju0zqbW-oosr9rDSpLOi1ER"
 }
